@@ -3,46 +3,72 @@
       "id": 1,
       "title": "Advanced Essay Writing Skills",
       "author": "Aprajita Jain",
-      "description": "Lorem Ipsum"
-    },{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus in mollis nunc sed. Fermentum iaculis eu non diam phasellus."
+    },
+    {
       "id": 2,
-      "title": "30 ways how you do not play a piano",
-      "author": "Raj Kapadia",
-      "description": "Lorem Ipsum"
-    },{
-      "id": 3,
       "title": "How to sing better",
       "author": "Rajneesh Bhatt",
-      "description": "Lorem Ipsum"
-    },{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien nec sagittis. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor."
+    },
+    {
+      "id": 3,
+      "title": "Make amazing Android apps in 48 hours",
+      "author": "Rahul Mourya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor posuere ac ut consequat semper viverra nam. Feugiat in fermentum posuere urna nec tincidunt praesent semper."
+    },
+    {
       "id": 4,
+      "title": "30 ways how you do not play a piano",
+      "author": "Raj kapadia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis eget nunc lobortis mattis aliquam. Purus sit amet volutpat consequat mauris nunc."
+    },
+    {
+      "id": 5,
       "title": "How to draw better",
       "author": "Riya Kapadia",
-      "description": "Lorem Ipsum"
-    },{
-      "id": 5,
-      "title": "How to Win Friends and Influence People",
-      "author": "Arjun Singh",
-      "description": "Lorem Ipsum"
-    },{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
       "id": 6,
+      "title": "Level up your React skills",
+      "author": "Ashita Singh",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
+      "id": 7,
+      "title": "How to be a billionaire in 25 days",
+      "author": "Priya Shah",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
+      "id": 8,
       "title": "7 habits of highly successful people",
       "author": "Pratyush Singh",
-      "description": "Lorem Ipsum"
-    },{
-      "id": 7,
-      "title": "20 skills you need in 2019 to survive",
-      "author": "Ashish Kapadia",
-      "description": "Lorem Ipsum"
-    },{
-      "id": 8,
-      "title": "Level up your React skills",
-      "author": "Aakruti Patel",
-      "description": "Lorem Ipsum"
-    },{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
       "id": 9,
-      "title": "How to be a billionaire in 25 days",
+      "title": "How to Win Friends and Influence People",
+      "author": "Arjun Singh",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
+      "id": 10,
+      "title": "20 skills you need in 2019 to survive",
+      "author": "Mohit Kumar",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
+      "id": 11,
+      "title": "How to win every game you play",
       "author": "Rishika Parekh",
-      "description": "Lorem Ipsum"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
+    },
+    {
+      "id": 12,
+      "title": "Zero to One",
+      "author": "Ashish Kapadia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna duis convallis convallis tellus id. Fames ac turpis egestas integer eget."
     }]
 }
